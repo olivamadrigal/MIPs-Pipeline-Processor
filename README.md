@@ -10,3 +10,5 @@ Lab Partner: Sang Ngoc Nguyen
 a) without data and control hazard unit
 
 b) with data and control hazard unit
+
+Note: some of the files are provided as part of the lab (e.g., debounce for clock etc.)
